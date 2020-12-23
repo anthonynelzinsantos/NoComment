@@ -43,6 +43,9 @@
 .node-comment-count,
 .sidebar-comment,
 
+/* Mediapart */
+.content-comments,
+
 /* NYT */
 #comments-speech-bubble-top,
 [aria-label^="comments"],
