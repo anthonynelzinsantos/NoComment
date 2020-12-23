@@ -32,13 +32,19 @@
 #comments-wrapper,
 #icon-comments,
 
-/* AppleInsider */
-.comment-section-head,
-.forum-comment,
+/* AllRecipes */
+.card__ratingContainer,
+.recipe-review-container,
+.recipes-reviews-container,
+.ugc-reviews,
 
 /* Anandtech */
 .hide_resp2,
 .show_resp2,
+
+/* AppleInsider */
+.comment-section-head,
+.forum-comment,
 
 /* Disqus */
 #disqus_thread,
