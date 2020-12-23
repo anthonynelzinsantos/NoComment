@@ -39,6 +39,10 @@
 .node-comment-count,
 .sidebar-comment,
 
+/* NYT */
+#comments-speech-bubble-top,
+[aria-label^="comments"],
+
 /* The Verge */
 .c-comments,
 .c-entry-stat--comment,
