@@ -14,7 +14,15 @@
 .comments,
 #comment,
 #comments,
+.c-comments,
+.c-entry-stat--comment,
+.comment-count,
+.comments-area,
+.hide_resp2,
 .node-comment-count,
-.sidebar-comment {
+.sidebar-comment,
+.show_resp2,
+#comments-speech-bubble-top,
+#comments-area {
 	display: none;
 }
