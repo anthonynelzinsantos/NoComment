@@ -10,20 +10,34 @@
 ******************************
 *****************************/
 
+/* Generic selectors */
 .comment,
-.comments,
-#comment,
-#comments,
-.c-comments,
-.c-entry-stat--comment,
 .comment-count,
+.comments,
 .comments-area,
-.entry__comments,
+#comment,
+#comment-count,
+#comments,
+#comments-area,
+
+/* Anandtech */
 .hide_resp2,
+.show_resp2,
+
+/* Disqus */
+#disqus_thread,
+
+/* MacGeneration */
 .node-comment-count,
 .sidebar-comment,
-.show_resp2,
-#comments-speech-bubble-top,
-#comments-area {
+
+/* The Verge */
+.c-comments,
+.c-entry-stat--comment,
+
+/* WP Tavern */
+.entry__comments
+
+{
 	display: none;
 }
