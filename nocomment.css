@@ -17,6 +17,7 @@
 .comment-form,
 .comments,
 .comments-area,
+.comments-wrapper,
 .icon-comments,
 #article-comment,
 #comment,
@@ -24,6 +25,7 @@
 #comment-form,
 #comments,
 #comments-area,
+#comments-wrapper,
 #icon-comments,
 
 /* AppleInsider */
@@ -48,6 +50,9 @@
 /* The Verge */
 .c-comments,
 .c-entry-stat--comment,
+
+/* WaPo */
+[data-qa^="utility-bar-item-comment"],
 
 /* WP Tavern */
 .entry__comments
