@@ -11,14 +11,18 @@
 *****************************/
 
 /* Generic selectors */
+.article-comment,
 .comment,
 .comment-count,
 .comments,
 .comments-area,
+.icon-comments,
+#article-comment,
 #comment,
 #comment-count,
 #comments,
 #comments-area,
+#icon-comments,
 
 /* Anandtech */
 .hide_resp2,
