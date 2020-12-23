@@ -12,19 +12,23 @@
 
 /* Generic selectors */
 .article-comment,
+.article-comments,
 .comment,
 .comment-count,
 .comment-form,
 .comments,
 .comments-area,
+.comments-container,
 .comments-wrapper,
 .icon-comments,
 #article-comment,
+#article-comments,
 #comment,
 #comment-count,
 #comment-form,
 #comments,
 #comments-area,
+#comments-container,
 #comments-wrapper,
 #icon-comments,
 
