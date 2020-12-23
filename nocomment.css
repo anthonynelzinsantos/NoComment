@@ -102,6 +102,9 @@
 #comments-speech-bubble-top,
 [aria-label^="comments"],
 
+/* Squarespace */
+.squarespace-comments,
+
 /* The Verge */
 .c-comments,
 .c-entry-stat--comment,
