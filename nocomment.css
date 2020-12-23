@@ -1,0 +1,20 @@
+/*****************************
+******************************
+*                            *
+*   Anthony Nelzin-Santos    *
+*     anthony@nelzin.fr      *
+* https://anthony.nelzin.fr/ *
+*                            *
+*         EUPL v1.2          *
+*                            *
+******************************
+*****************************/
+
+.comment,
+.comments,
+#comment,
+#comments,
+.node-comment-count,
+.sidebar-comment {
+	display: none;
+}
