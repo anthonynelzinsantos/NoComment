@@ -29,6 +29,7 @@
 .comments-wrapper,
 .icon-comment,
 .icon-comments,
+.widget_recent_comments,
 #article-comment,
 #article-comments,
 #comment,
@@ -47,6 +48,7 @@
 #comments-wrapper,
 #icon-comment,
 #icon-comments,
+#widget_recent_comments,
 
 /* 9to5Mac */
 .post-social-mobile a.comments,
