@@ -29,6 +29,8 @@
 .comments-wrapper,
 .icon-comment,
 .icon-comments,
+.news-comment,
+.news-comments,
 .widget_recent_comments,
 #article-comment,
 #article-comments,
@@ -48,6 +50,8 @@
 #comments-wrapper,
 #icon-comment,
 #icon-comments,
+#news-comment,
+#news-comments,
 #widget_recent_comments,
 
 /* 9to5Mac */
@@ -78,6 +82,9 @@
 /* DPReview */
 .commentBubbleLink,
 #viewComments,
+
+/* El Español */
+.art .cmt[data-status="on"],
 
 /* Font Awesome */
 .fa-comment,
