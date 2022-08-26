@@ -63,9 +63,18 @@
 .recipes-reviews-container,
 .ugc-reviews,
 
-/* Amazon (TBD) */
+/* Amazon */
+.a-section:has(> .a-icon-star-mini),
+#reviewsRefinements,
+#search .a-section.a-spacing-small > div:nth-child(2),
+#averageCustomerReviews_feature_div,
+#value-pick-ac > div > div > div.a-fixed-left-grid.a-spacing-top-mini > div > div.a-fixed-left-grid-col.a-col-right > div:nth-child(3),
+.adReviewLink,
+#productDetails_detailBullets_sections1 > tbody > tr:nth-child(2),
+#cf-ask-cel,
 #reviewFeatureGroup,
 #reviewsMedley,
+.copilot-secure-display,
 
 /* Anandtech */
 .hide_resp2,
@@ -100,6 +109,9 @@
 /* Hodinkee */
 .comment-bubble,
 .comments-wrap,
+
+/* Le Monde */
+.article__reactions,
 
 /* Le Figaro */
 .fig-comments,
