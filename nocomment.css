@@ -133,9 +133,11 @@
 /* Squarespace */
 .squarespace-comments,
 
-/* The Verge */
-.c-comments,
-.c-entry-stat--comment,
+/* The Verge et alii */
+.coral-count,
+.duet--article--comments-join-the-conversation,
+.duet--article--comments-link,
+.overflow-hidden:has(#coral_thread),
 
 /* WaPo */
 [data-qa^="utility-bar-item-comment"],
