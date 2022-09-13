@@ -143,7 +143,11 @@
 [data-qa^="utility-bar-item-comment"],
 
 /* WP Tavern */
-.entry__comments
+.entry__comments,
+
+/* ZDNet */
+.c-socialSharebar_icon,
+.c-socialComments
 
 {
 	display: none !important;
