@@ -13,6 +13,7 @@
 /* Generic selectors */
 .article-comment,
 .article-comments,
+.article__reactions,
 .comment,
 .comment-area,
 .comment-container,
@@ -34,6 +35,7 @@
 .widget_recent_comments,
 #article-comment,
 #article-comments,
+#article__reactions,
 #comment,
 #comment-area,
 #comment-container,
@@ -54,15 +56,6 @@
 #news-comments,
 #widget_recent_comments,
 
-/* 9to5Mac */
-.post-social-mobile a.comments,
-
-/* AllRecipes */
-.card__ratingContainer,
-.recipe-review-container,
-.recipes-reviews-container,
-.ugc-reviews,
-
 /* Amazon */
 .a-section:has(> .a-icon-star-mini),
 #reviewsRefinements,
@@ -76,24 +69,8 @@
 #reviewsMedley,
 .copilot-secure-display,
 
-/* Anandtech */
-.hide_resp2,
-.show_resp2,
-
-/* AppleInsider */
-.comment-section-head,
-.forum-comment,
-.social-share.comments,
-
 /* Disqus */
 #disqus_thread,
-
-/* DPReview */
-.commentBubbleLink,
-#viewComments,
-
-/* El Español */
-.art .cmt[data-status="on"],
 
 /* Font Awesome */
 .fa-comment,
@@ -106,48 +83,8 @@
 /* Hacker News */
 .comment-tree,
 
-/* Hodinkee */
-.comment-bubble,
-.comments-wrap,
-
-/* Le Monde */
-.article__reactions,
-
-/* Le Figaro */
-.fig-comments,
-
-/* MacGeneration */
-.node-comment-count,
-.sidebar-comment,
-
-/* Mediapart */
-.content-comments,
-
-/* NextInpact */
-.main-comments-container,
-
-/* NYT */
-#comments-speech-bubble-top,
-[aria-label^="comments"],
-
 /* Squarespace */
-.squarespace-comments,
-
-/* The Verge et alii */
-.coral-count,
-.duet--article--comments-join-the-conversation,
-.duet--article--comments-link,
-.overflow-hidden:has(#coral_thread),
-
-/* WaPo */
-[data-qa^="utility-bar-item-comment"],
-
-/* WP Tavern */
-.entry__comments,
-
-/* ZDNet */
-.c-socialSharebar_icon,
-.c-socialComments
+.squarespace-comments
 
 {
 	display: none !important;
