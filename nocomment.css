@@ -10,65 +10,23 @@
 ******************************
 *****************************/
 
-a[href*="comments"],
-
 /* Generic selectors */
-.article-comment,
-#article-comment,
-.article-comments,
-#article-comments,
-.article__reactions,
-#article__reactions,
-.comment,
-#comment,
-.comment-area,
-#comment-area,
-.comment-container,
-#comment-container,
-.comment-count,
-#comment-count,
-.comment-form,
-#comment-form,
-.comment-link,
-#comment-link,
-.comment-wrapper,
-#comment-wrapper,
-.comments,
-#comments,
-.comments-area,
-#comments-area,
-.comments-container,
-#comments-container,
-.comments-count,
-#comments-count,
-.comments-form,
-#comments-form,
-.comments-link,
-#comments-link,
-.comments-wrapper,
-#comments-wrapper,
-.icon-comment,
-#icon-comment,
-.icon-comments,
-#icon-comments,
-.news-comment,
-#news-comment,
-.news-comments,
-#news-comments,
+a[href*="comments"],
+button[aria-label*="comments"],
+div[class*="comment"],
+div[id*="comment"],
+div[class*="reaction"],
+div[id*="reaction"],
 
 /* Disqus */
 #disqus_thread,
 
-/* Font Awesome */
-.fa-comment,
-.fa-comment-o,
-.fa-commenting,
-.fa-commenting-o,
-.fa-comments,
-.fa-comments-o,
+/* Stupid */
+article p.flex.items-center.ml-1,
 
-/* Squarespace */
-.squarespace-comments
+/* The Verge */
+.coral-count,
+.duet--article--comments-button
 
 {
 	display: none !important;
