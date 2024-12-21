@@ -3,71 +3,58 @@
 *                            *
 *   Anthony Nelzin-Santos    *
 *     anthony@nelzin.fr      *
-* https://anthony.nelzin.fr/ *
+*     https://a17s.net/      *
 *                            *
 *         EUPL v1.2          *
 *                            *
 ******************************
 *****************************/
 
+a[href*="comments"],
+
 /* Generic selectors */
 .article-comment,
-.article-comments,
-.article__reactions,
-.comment,
-.comment-area,
-.comment-container,
-.comment-count,
-.comment-form,
-.comment-link,
-.comment-wrapper,
-.comments,
-.comments-area,
-.comments-container,
-.comments-count,
-.comments-form,
-.comments-link,
-.comments-wrapper,
-.icon-comment,
-.icon-comments,
-.news-comment,
-.news-comments,
-.widget_recent_comments,
 #article-comment,
+.article-comments,
 #article-comments,
+.article__reactions,
 #article__reactions,
+.comment,
 #comment,
+.comment-area,
 #comment-area,
+.comment-container,
 #comment-container,
+.comment-count,
 #comment-count,
+.comment-form,
 #comment-form,
+.comment-link,
 #comment-link,
+.comment-wrapper,
 #comment-wrapper,
+.comments,
 #comments,
+.comments-area,
 #comments-area,
+.comments-container,
 #comments-container,
+.comments-count,
 #comments-count,
+.comments-form,
 #comments-form,
+.comments-link,
 #comments-link,
+.comments-wrapper,
 #comments-wrapper,
+.icon-comment,
 #icon-comment,
+.icon-comments,
 #icon-comments,
+.news-comment,
 #news-comment,
+.news-comments,
 #news-comments,
-#widget_recent_comments,
-
-/* Amazon */
-.a-section:has(> .a-icon-star-mini),
-#reviewsRefinements,
-#search .a-section.a-spacing-small > div:nth-child(2),
-#averageCustomerReviews_feature_div,
-#value-pick-ac > div > div > div.a-fixed-left-grid.a-spacing-top-mini > div > div.a-fixed-left-grid-col.a-col-right > div:nth-child(3),
-.adReviewLink,
-#productDetails_detailBullets_sections1 > tbody > tr:nth-child(2),
-#cf-ask-cel,
-#reviewFeatureGroup,
-#reviewsMedley,
-.copilot-secure-display,
 
 /* Disqus */
 #disqus_thread,
@@ -79,9 +66,6 @@
 .fa-commenting-o,
 .fa-comments,
 .fa-comments-o,
-
-/* Hacker News */
-.comment-tree,
 
 /* Squarespace */
 .squarespace-comments
