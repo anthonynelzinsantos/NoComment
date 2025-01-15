@@ -11,12 +11,11 @@
 *****************************/
 
 /* Generic selectors */
-a[href*="comments"],
 button[aria-label*="comments"],
-div[class*="comment"],
-div[id*="comment"],
-div[class*="reaction"],
-div[id*="reaction"],
+*[class*="comment"],
+*[id*="comment"],
+*[class*="reaction"],
+*[id*="reaction"],
 
 /* Disqus */
 #disqus_thread,
